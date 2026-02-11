@@ -15,6 +15,7 @@ I'm a Software Engineer dedicated to building resilient financial ecosystems. I 
 ![APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 **Infrastructure & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=openshift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
