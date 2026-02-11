@@ -20,6 +20,11 @@ I'm a Software Engineer dedicated to building resilient financial ecosystems. I 
 ![CI/CD](https://img.shields.io/badge/CI/CD-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=flat-square)
 
+**Observability & Monitoring**
+![Dynatrace](https://img.shields.io/badge/Dynatrace-73BE28?style=flat-square&logo=dynatrace&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
 **Data Science & Economics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
